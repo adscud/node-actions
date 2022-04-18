@@ -104,3 +104,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+/AuthKey_VSL63V92F4.p8
+/firebase-sdk.json

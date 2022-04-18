@@ -19,6 +19,8 @@
   "dependencies": {
     "apn": "^2.2.0",
     "dotenv": "^16.0.0",
+    "firebase-admin": "^10.0.2",
+    "google-auth-library": "^7.14.1",
     "inquirer": "^8.2.2",
     "jsonwebtoken": "^8.5.1",
     "node-libcurl": "^2.3.4"
